@@ -3,6 +3,10 @@
 ```
 pip install requirements.txt
 ```
+Tạo file .env chứa:
+```
+gemini_api_key="your api key hyhy"
+```
 
 ```
 streamlit run Website/app.py
