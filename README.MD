@@ -8,6 +8,7 @@ Tạo file .env chứa:
 gemini_api_key="your api key hyhy"
 ```
 
+Run the code:
 ```
 streamlit run Website/app.py
 ```
